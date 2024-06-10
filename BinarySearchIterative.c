@@ -1,3 +1,4 @@
+//Time Complexity-->O(logn)
 #include <stdio.h>
 
 int binarySearchRecursive(int arr[], int l, int r, int x) {
