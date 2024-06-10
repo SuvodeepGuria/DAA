@@ -1,3 +1,4 @@
+// O(nlogn)
 #include <stdio.h>
 
 void heapify(int arr[], int n, int i) {
