@@ -1,3 +1,4 @@
+//O(n*W)
 #include <stdio.h>
 
 #define MAX_ITEMS 100
