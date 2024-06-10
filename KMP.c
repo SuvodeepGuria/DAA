@@ -1,3 +1,4 @@
+//O(m+n)
 #include <stdio.h>
 #include <string.h>
 
